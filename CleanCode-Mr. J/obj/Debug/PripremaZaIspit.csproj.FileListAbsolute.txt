@@ -1,0 +1,6 @@
+C:\Users\IvanPavic\Desktop\programmieren_üben\OOP - ObjektnoOrientiranoProgramiranje\sa_Jokom\PripremaZaIspit\PripremaZaIspit\PripremaZaIspit\bin\Debug\PripremaZaIspit.exe.config
+C:\Users\IvanPavic\Desktop\programmieren_üben\OOP - ObjektnoOrientiranoProgramiranje\sa_Jokom\PripremaZaIspit\PripremaZaIspit\PripremaZaIspit\bin\Debug\PripremaZaIspit.exe
+C:\Users\IvanPavic\Desktop\programmieren_üben\OOP - ObjektnoOrientiranoProgramiranje\sa_Jokom\PripremaZaIspit\PripremaZaIspit\PripremaZaIspit\bin\Debug\PripremaZaIspit.pdb
+C:\Users\IvanPavic\Desktop\programmieren_üben\OOP - ObjektnoOrientiranoProgramiranje\sa_Jokom\PripremaZaIspit\PripremaZaIspit\PripremaZaIspit\obj\Debug\PripremaZaIspit.csprojAssemblyReference.cache
+C:\Users\IvanPavic\Desktop\programmieren_üben\OOP - ObjektnoOrientiranoProgramiranje\sa_Jokom\PripremaZaIspit\PripremaZaIspit\PripremaZaIspit\obj\Debug\PripremaZaIspit.exe
+C:\Users\IvanPavic\Desktop\programmieren_üben\OOP - ObjektnoOrientiranoProgramiranje\sa_Jokom\PripremaZaIspit\PripremaZaIspit\PripremaZaIspit\obj\Debug\PripremaZaIspit.pdb
