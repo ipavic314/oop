@@ -1,0 +1,7 @@
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\vj05z1\bin\Debug\vj05z1.exe.config
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\vj05z1\bin\Debug\vj05z1.exe
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\vj05z1\bin\Debug\vj05z1.pdb
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\vj05z1\obj\Debug\vj05z1.csprojAssemblyReference.cache
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\vj05z1\obj\Debug\vj05z1.csproj.CoreCompileInputs.cache
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\vj05z1\obj\Debug\vj05z1.exe
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\vj05z1\obj\Debug\vj05z1.pdb
