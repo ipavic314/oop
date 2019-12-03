@@ -1,0 +1,7 @@
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\CleanCode\bin\Debug\CleanCode.exe.config
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\CleanCode\bin\Debug\CleanCode.exe
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\CleanCode\bin\Debug\CleanCode.pdb
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\CleanCode\obj\Debug\CleanCode.csprojAssemblyReference.cache
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\CleanCode\obj\Debug\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\CleanCode\obj\Debug\CleanCode.exe
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\CleanCode\obj\Debug\CleanCode.pdb
