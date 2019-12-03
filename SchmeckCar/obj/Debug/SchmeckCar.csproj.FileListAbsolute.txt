@@ -1,0 +1,7 @@
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\SchmeckCar\bin\Debug\SchmeckCar.exe.config
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\SchmeckCar\bin\Debug\SchmeckCar.exe
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\SchmeckCar\bin\Debug\SchmeckCar.pdb
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\SchmeckCar\obj\Debug\SchmeckCar.csprojAssemblyReference.cache
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\SchmeckCar\obj\Debug\SchmeckCar.csproj.CoreCompileInputs.cache
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\SchmeckCar\obj\Debug\SchmeckCar.exe
+C:\Users\nbrzica\Documents\Algebra\02_godina\OOP\Vjezbe_OOP1\Rjesenja_OOP1\UcenjeZaIspit\SchmeckCar\obj\Debug\SchmeckCar.pdb
